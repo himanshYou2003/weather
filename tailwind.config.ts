@@ -12,6 +12,11 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        Sharpie: ["'Sharpie'", "sans-serif"],
+        General: ["'General Sans'", "sans-serif"],
+        Author: ["'Author'", "cursive"],
+      },
     },
   },
   plugins: [],
